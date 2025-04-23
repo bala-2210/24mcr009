@@ -2,3 +2,4 @@ Name : balakumaravel ks
 Roll no : 24mcr009
 Dept : Mca-computer applications
 Favorite subject: dbms,Iot
+mobile model : Samsung f 12
